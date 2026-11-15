@@ -4,7 +4,7 @@ Dose Quest is an interactive pharmacology study app for first-year nursing stude
 
 ## Open the app
 
-Open \`index.html\` in a modern browser. The app has a medication library, body-system filters, flashcard practice, a short NCLEX-style nursing-safety quiz, patient teach-back practice, and an instructor activity snapshot.
+Serve the repository as a static site (for example, with GitHub Pages) and open index.html in a modern browser. ES modules may not run when index.html is opened directly as a local file. The app has a medication library, body-system filters, flashcard practice, a short NCLEX-style nursing-safety quiz, patient teach-back practice, and an instructor activity snapshot.
 
 Student names and progress are stored only in local browser storage on the device. This prototype does not provide authenticated student accounts or shared instructor analytics.
 
@@ -21,5 +21,3 @@ Student names and progress are stored only in local browser storage on the devic
 The starter list is curated for study coverage. Medication-specific nursing checks, common side effects, red flags, boxed warnings, and patient teaching should be verified against the exact current product label and reviewed by the course instructor and pharmacist. This app is for education, not clinical decision-making.
 
 Before using identifiable student data, replace local-only storage with a privacy-reviewed backend and establish class access, consent, retention, and security practices. The teach-back demo does not save audio; browser speech transcription behavior depends on browser settings and implementation.
-
-
