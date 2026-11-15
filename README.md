@@ -12,6 +12,10 @@ Student names and progress are stored only in local browser storage on the devic
 
 - [2026 NCLEX-RN Test Plan (NCSBN)](https://www.ncsbn.org/public-files/2026_RN_Test%20Plan_English-F.pdf): test domains, including pharmacological/parenteral therapies and safe handling of high-risk medications. NCSBN does not publish a fixed medication list.
 - [Nursing Pharmacology, 2e (Open RN / NCBI Bookshelf)](https://www.ncbi.nlm.nih.gov/books/NBK595000/): open nursing pharmacology textbook updated to the 2023 NCLEX-RN/PN plans.
+
+
+- [Nursing Pharmacology 2e (Open RN / WisTech Open)](https://wtcs.pressbooks.pub/pharmacology2e/), by Ernstmeyer and Christman, 2023. Licensed CC BY 4.0 except where noted; the app links to the book for independent reading.
+- [Pharmacology for Nurses (OpenStax)](https://openstax.org/books/pharmacology/pages/1-introduction), by Barbour-Taylor, Mueller (Sabato), Paris, and Weaver, 2024. Licensed CC BY-NC-SA 4.0. Dose Quest links to the textbook but does not reproduce or adapt its content.
 - [Essential NCLEX Meds by Class (NURSING.com)](https://academy.nursing.com/lesson/01-04-essential-nclex-meds-by-class/): nursing education class/exemplar cross-check.
 - [ISMP High-Alert Medications in Acute Care Settings (2024)](https://www.ismp.org/system/files/resources/2024-01/ISMP_HighAlert_AcuteCare_List_010924_MS5760.pdf): informs highlighted high-alert exemplars.
 - [DailyMed](https://dailymed.nlm.nih.gov/dailymed/) and [FDA prescription labeling FAQ](https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/frequently-asked-questions-about-labeling-prescription-medicines): current product labeling and boxed-warning verification.
